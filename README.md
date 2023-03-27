@@ -18,7 +18,7 @@
 
 Esta Api tem como objetivo ajudar clínicas veterinária a ter um controle de registros médicos, agendamento de consultas, procedimentos, tratamentos e medicamentos dos pets. Ainda possibilita que o dono do pet agende consultas e tenha um registro completo de seu pet com controle de vacinas.
 
-URL de teste: https://github.com/LucasR29/API-veterinary
+URL de teste: https://veterinaryapi.onrender.com
 
 ---
 
